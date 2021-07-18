@@ -1,3 +1,5 @@
+![Design and Development](https://github.com/Miguel-TheThird/Miguel-TheThird/blob/main/banner.png)
+
 ### Hi there 👋, my name is Miguel
 #### I am Full-Stack Software Developer!
 Full-Stack Web Developer with a solid background in electronics and telecommunications.
